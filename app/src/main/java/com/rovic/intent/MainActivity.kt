@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //LATIHAN GIT
+        //0000000000
     }
 }
